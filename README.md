@@ -1,7 +1,7 @@
 # Currentcast
  An OpenSource podcase player for MacOS
 
-# ![Currentcast-header](https://w7.pngwing.com/pngs/456/202/png-transparent-podcast-radio-others-logo-radio-station-edit-icon.png)
+# ![Currentcast-header](https://w7.pngwing.com/pngs/456/202/png-black-podcast-radio-others-logo-radio-station-edit-icon.png)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) 
 [![Platform](http://img.shields.io/badge/platform-macOS-black.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](https://img.shields.io/badge/swift-4.2-orange.svg?style=flat)](https://swift.org/blog/swift-4-2-released/)
