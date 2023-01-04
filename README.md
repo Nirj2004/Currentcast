@@ -10,7 +10,7 @@
 [![Platform](http://img.shields.io/badge/platform-iPadOS-cyan.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](https://img.shields.io/badge/swift-5.7.2-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nirj2004/Currentcast/)
-[![Platform](http://img.shields.io/badge/platform-naughtyStuff-orange.svg?style=flat)](https://www.pornhub.com/)
+[![Just for fun!!!](http://img.shields.io/badge/platform-naughtyStuff-orange.svg?style=flat)](https://www.pornhub.com/)
 
 I love listening to podcasts but unfortunately I never found a third party macOS podcast player that I liked. So, I decided to build one myself. Here is CURRENTCAST. 
 
