@@ -7,7 +7,7 @@
 [![Platform](http://img.shields.io/badge/platform-macOS-black.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](http://img.shields.io/badge/platform-iOS-beige.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](http://img.shields.io/badge/platform-watchOS-neongreen.svg?style=flat)](https://developer.apple.com/resources/)
-[![Platform](http://img.shields.io/badge/platform-iPadOS-magenta.svg?style=flat)](https://developer.apple.com/resources/)
+[![Platform](http://img.shields.io/badge/platform-iPadOS-cyan.svg?style=flat)](https://developer.apple.com/resources/)
 [![Platform](https://img.shields.io/badge/swift-5.7.2-orange.svg?style=flat)](https://developer.apple.com/swift/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nirj2004/Currentcast/)
 
